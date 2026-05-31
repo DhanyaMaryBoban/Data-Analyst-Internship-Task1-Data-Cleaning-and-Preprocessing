@@ -22,7 +22,7 @@ The Mall Customer Segmentation dataset contains customer information including:
 
 ## ✅ Deliverables
 - Cleaned dataset (ready for analysis)  
-- Jupyter Notebook with code and outputs  
+- PDF from google colab of code and outputs that performed in Jupyter Notebook
 - Short summary of changes 
 
 ## 🎯 Learning Outcomes
